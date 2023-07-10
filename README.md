@@ -1,6 +1,5 @@
 # 1. Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter 
-#Heading  hp-api.onrender.com/api/characters
-[Markdown Monster Web Site](http://MarkdownMonster.west-wind.com/)
+
 PD: ningún gatito murió en su creación...
 
 
@@ -31,8 +30,9 @@ git branch -M main
 git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
 git push -u origin main
 ``
+# 1. Este
 
-# - Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
+# H- Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
 
 # - Nos aparecera una lista de frameworks, elegimos react.
 
