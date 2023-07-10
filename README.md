@@ -6,7 +6,7 @@
 
 
 # Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
-####Unordered list (-)
+####
 
 -  Tener creada la estructura de React:
 hƩps://es.react.dev/learn/start-a-new-react-project
