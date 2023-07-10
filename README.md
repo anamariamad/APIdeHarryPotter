@@ -52,7 +52,7 @@ Elegimos react.
 En este caso, JavaScript.
 ```
 
-##  - Una vez creada intruduciremos los comandos:
+##  - Una vez creada introduciremos los comandos:
 
 ```
    "cd seguido del nombre que hayamos elegido"
