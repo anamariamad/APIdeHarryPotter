@@ -57,7 +57,7 @@ En este caso, JavaScript.
 ```
    "cd seguido del nombre que hayamos elegido"
    "npm install"
-   " pm run dev"
+   "npm run dev"
 ```
 
 ## - Y nos va a entregar un puerto de acceso donde poder visualizarlo.
