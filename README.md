@@ -6,7 +6,7 @@ PD: Ningún gatito murió en su creación...
 
 ## Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener instalados los siguientes programas: 
 ```
-### - Tener creada la estructura de React:
+- Tener creada la estructura de React:
 https://es.react.dev/learn/start-a-new-react-project
 
 - Vite:
