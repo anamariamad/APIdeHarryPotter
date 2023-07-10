@@ -13,6 +13,7 @@ https://es.react.dev/learn/start-a-new-react-project
 https://vitejs.dev/guide/
 
 - Node
+https://nodejs.org/es
 ```
 
 
