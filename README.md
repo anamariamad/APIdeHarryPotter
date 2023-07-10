@@ -18,7 +18,7 @@ hƩps://vitejs.dev/guide/
 
 ## Sigue después las instrucciones que te aparecerán en la pantalla:
 
-# APIdePOKEMON" >> README.md
+APIdePOKEMON" >> README.md
 
 Some basic Git commands are:
 ```
