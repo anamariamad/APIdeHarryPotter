@@ -19,7 +19,7 @@ https://nodejs.org/es
 
 ## Para abrir el repositorio:
 ```
-Escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
+Escribe en la terminal de Visual Studio Code: "git clone" seguido del nombre del repositorio.
 ```
 
 ## Sigue después las instrucciones que te aparecerán en la pantalla:
