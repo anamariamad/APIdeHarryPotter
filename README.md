@@ -10,7 +10,7 @@ PD: ningún gatito murió en su creación...
 https://es.react.dev/learn/start-a-new-react-project
 
 - Vite:
-https://es.react.dev/learn/start-a-new-react-project
+https://vitejs.dev/guide/
 
 - Node
 ```
