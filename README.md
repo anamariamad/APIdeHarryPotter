@@ -16,7 +16,10 @@ https://es.react.dev/learn/start-a-new-react-project
 ```
 
 
-## Para abrir el repositorio escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
+## Para abrir el repositorio:
+```
+Escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
+```
 
 ## Sigue después las instrucciones que te aparecerán en la pantalla:
 
