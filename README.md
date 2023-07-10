@@ -24,14 +24,14 @@ Escribe en la terminal de Visual Studio Code: "git clone" seguido del nombre del
 
 ## Sigue después las instrucciones que te aparecerán en la pantalla:
 
-APIdePOKEMON" >> README.md
+APIdeHarryPotter >> README.md
 
 ```
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
+git remote add origin https://github.com/anamariamad/APIdeHarryPotter.git
 git push -u origin main
 ```
 
