@@ -32,7 +32,6 @@ git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
 git push -u origin main
 ``
 
-
 # - Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
 
 # - Nos aparecera una lista de frameworks, elegimos react.
