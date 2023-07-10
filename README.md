@@ -4,6 +4,7 @@ hp-api.onrender.com/api/characters
 PD: ningún gatito murió en su creación...
 
 
+
 Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
 
 - Node
