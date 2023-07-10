@@ -36,11 +36,21 @@ git push -u origin main
 ```
 
 
-## - Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
+## - Como vite también utiliza npm escribimos en el terminal: 
+```
+"npm create vite@latest"
+```
 
-## - Nos aparecera una lista de frameworks, elegimos react.
+## - Nos aparecera una lista de frameworks,
+```
+elegimos react.
+```
 
-## - Seguidamente elegiremos una "variant" de las que aparecen, en este caso, JavaScript.
+## - Seguidamente elegiremos una "variant" de las que aparecen: 
+
+```
+En este caso, JavaScript.
+```
 
 ##  - Una vez creada intruduciremos los comandos:
 
@@ -52,6 +62,9 @@ git push -u origin main
 
 ## - Y nos va a entregar un puerto de acceso donde poder visualizarlo.
 
-## - Para acceder al proyecto hacemos click en "open folder".
 
+## - Para acceder al proyecto 
+```
+hacemos click en "open folder".
+```
 
