@@ -1,4 +1,5 @@
-# 1 Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter hp-api.onrender.com/api/characters
+# 1. Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter 
+hp-api.onrender.com/api/characters
 
 PD: ningún gatito murió en su creación...
 
