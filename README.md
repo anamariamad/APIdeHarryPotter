@@ -7,8 +7,8 @@
 
 # Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
 ####
-##
--  Tener creada la estructura de React:
+
+##-  Tener creada la estructura de React:
 hƩps://es.react.dev/learn/start-a-new-react-project
 - Vite:
 hƩps://vitejs.dev/guide/
