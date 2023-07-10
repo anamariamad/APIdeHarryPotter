@@ -25,7 +25,6 @@ Escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
 
 APIdePOKEMON" >> README.md
 
-Some basic Git commands are:
 ```
 git init
 git add README.md
@@ -43,7 +42,7 @@ git push -u origin main
 
 ## - Nos aparecera una lista de frameworks,
 ```
-elegimos react.
+Elegimos react.
 ```
 
 ## - Seguidamente elegiremos una "variant" de las que aparecen: 
