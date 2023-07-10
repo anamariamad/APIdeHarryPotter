@@ -55,9 +55,9 @@ En este caso, JavaScript.
 ##  - Una vez creada intruduciremos los comandos:
 
 ```
-   " cd seguido del nombre que hayamos elegido
-   " npm install"
-   " npm run dev"
+   "cd seguido del nombre que hayamos elegido"
+   "npm install"
+   " pm run dev"
 ```
 
 ## - Y nos va a entregar un puerto de acceso donde poder visualizarlo.
