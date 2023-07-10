@@ -23,19 +23,19 @@ git branch -M main
 git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
 git push -u origin main"
 
-Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
+- Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
 
-Nos aparecera una lista de frameworks, elegimos react.
+- Nos aparecera una lista de frameworks, elegimos react.
 
-Seguidamente elegiremos una "variant" de las que aparecen, en este caso, JavaScript.
+- Seguidamente elegiremos una "variant" de las que aparecen, en este caso, JavaScript.
 
-Una vez creada intruduciremos los comandos:
-- " cd seguido del nombre que hayamos elegido
-- "npm install"
-- " npm run dev"
+- Una vez creada intruduciremos los comandos:
+  a) " cd seguido del nombre que hayamos elegido
+  b) "npm install"
+  c) " npm run dev"
 
-Y nos va a entregar un puerto de acceso donde poder visualizarlo.
+- Y nos va a entregar un puerto de acceso donde poder visualizarlo.
 
-Para acceder al proyecto hacemos click en "open folder".
+- Para acceder al proyecto hacemos click en "open folder".
 
 
