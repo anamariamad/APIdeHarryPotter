@@ -1,4 +1,7 @@
-Este es un proyecto para consumir una API de Harry Potter, ningún gatito murió en su creación...
+Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter
+hp-api.onrender.com/api/characters, 
+PD: ningún gatito murió en su creación...
+
 
 Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
 
