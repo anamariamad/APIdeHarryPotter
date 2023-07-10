@@ -1,19 +1,19 @@
 # 1. Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter 
 #Heading  hp-api.onrender.com/api/characters
 
-PD: ningún gatito murió en su creación...
+##PD: ningún gatito murió en su creación...
 
 
 
 # Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
+####Unordered list (-)
 
-- Node
-
-- Tener creada la estructura de React:
+-  Tener creada la estructura de React:
 hƩps://es.react.dev/learn/start-a-new-react-project
-
 - Vite:
 hƩps://vitejs.dev/guide/
+- Node
+
 
 
 # Para abrir el repositorio escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
