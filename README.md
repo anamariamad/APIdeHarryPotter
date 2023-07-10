@@ -1,6 +1,6 @@
 # 1. Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter 
 
-PD: ningún gatito murió en su creación...
+## PD: ningún gatito murió en su creación...
 
 
 
