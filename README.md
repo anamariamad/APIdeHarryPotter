@@ -61,6 +61,9 @@ En este caso, JavaScript.
 ```
 
 ## - Y nos va a entregar un puerto de acceso donde poder visualizarlo.
+![image](https://github.com/anamariamad/APIdeHarryPotter/assets/134279099/9b7e6598-4325-4d43-a541-9c26eff4eead
+
+
 
 
 ## - Para acceder al proyecto 
