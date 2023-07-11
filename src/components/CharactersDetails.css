@@ -1,5 +1,5 @@
 .contenedor-pop-up {
-    background-color: #fff;
+    background-color: rgb(91, 143, 165);
     padding: 20px;
     border-radius: 5px;
     justify-content: center;
@@ -7,7 +7,7 @@
 }
 
 .pop-up-content {
-    background-color: gray;
+    background-color: rgb(193, 174, 174);
     width: 500px;
     padding: 10px;
     border-radius: 10px;

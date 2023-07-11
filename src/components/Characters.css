@@ -1,15 +1,12 @@
+
 .card {
-    
-    
     margin-top: 5px;
     max-height: 300px;
     max-width: 300px;
-   
-   
-   
 }
 .contenedor {
-    border: solid 1px purple;
+    border: solid 8px rgb(80, 169, 185);
+    background-color: rgb(66, 182, 37);
     border-radius: 10px;
     width: 400px;
     height: 570px;

@@ -3,6 +3,7 @@ import {useEffect, useState} from 'react'
 import './CharactersDetails.css'
 import Characters from "./Characters";
 
+
 const HarryPotterPage = () => {
 
         const [characters, setCharacters] = useState([]);

@@ -27,4 +27,4 @@ return (
 
  }
 
-export default CharactersDetails;
+export default CharactersDetails

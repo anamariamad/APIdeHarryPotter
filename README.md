@@ -1,73 +1,41 @@
-## Este es un repositorio que consiste en un proyecto para consumir una API de Harry Potter utilizando React 
-```
-PD: Ningún gatito murió en su creación...
-```
+Este es un proyecto para consumir una API de Harry Potter, ningún gatito murió en su creación...
 
-
-## Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener instalados los siguientes programas: 
-```
-- Tener creada la estructura de React:
-https://es.react.dev/learn/start-a-new-react-project
-
-- Vite:
-https://vitejs.dev/guide/
+Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
 
 - Node
-https://nodejs.org/es
-```
+
+- Tener creada la estructura de React:
+hƩps://es.react.dev/learn/start-a-new-react-project
+
+- Vite:
+hƩps://vitejs.dev/guide/
 
 
-## Para abrir el repositorio:
-```
-Escribe en la terminal de Visual Studio Code: "git clone" seguido del nombre del repositorio.
-```
+Para abrir el repositorio escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
 
-## Sigue después las instrucciones que te aparecerán en la pantalla:
-
-APIdeHarryPotter >> README.md
-
-```
+Sigue después las instrucciones que te aparecerán en la pantalla:
+"or create a new repository on the command line
+echo "# APIdePOKEMON" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/anamariamad/APIdeHarryPotter.git
-git push -u origin main
-```
+git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
+git push -u origin main"
 
+Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
 
-## - Como vite también utiliza npm escribimos en el terminal: 
-```
-"npm create vite@latest"
-```
+Nos aparecera una lista de frameworks, elegimos react.
 
-## - Nos aparecera una lista de frameworks,
-```
-Elegimos react.
-```
+Seguidamente elegiremos una "variant" de las que aparecen, en este caso, JavaScript.
 
-## - Seguidamente elegiremos una "variant" de las que aparecen: 
+Una vez creada intruduciremos los comandos:
+- " cd seguido del nombre que hayamos elegido
+- "npm install"
+- " npm run dev"
 
-```
-En este caso, JavaScript.
-```
+Y nos va a entregar un puerto de acceso donde poder visualizarlo.
 
-##  - Una vez creada introduciremos los comandos:
+Para acceder al proyecto hacemos click en "open folder".
 
-```
-   "cd seguido del nombre que hayamos elegido"
-   "npm install"
-   "npm run dev"
-```
-
-## - Y nos va a entregar un puerto de acceso donde poder visualizarlo.
-![image](https://github.com/anamariamad/APIdeHarryPotter/assets/134279099/9b7e6598-4325-4d43-a541-9c26eff4eead
-
-
-
-
-## - Para acceder al proyecto 
-```
-hacemos click en "open folder".
-```
 
