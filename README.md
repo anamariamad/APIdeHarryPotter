@@ -5,10 +5,10 @@ Para acceder a este repositorio (pongo ejemplo con visual studio code) debes ten
 - Node
 
 - Tener creada la estructura de React:
-https:://es.react.dev/learn/start-a-new-react-project
+https://es.react.dev/learn/start-a-new-react-project
 
 - Vite:
-https:://vitejs.dev/guide/
+https://vitejs.dev/guide/
 ```
 
 
