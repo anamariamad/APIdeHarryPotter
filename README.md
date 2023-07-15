@@ -5,14 +5,15 @@ Para acceder a este repositorio (pongo ejemplo con visual studio code) debes ten
 - Node
 
 - Tener creada la estructura de React:
-hƩps://es.react.dev/learn/start-a-new-react-project
+https:://es.react.dev/learn/start-a-new-react-project
 
 - Vite:
-hƩps://vitejs.dev/guide/
+https:://vitejs.dev/guide/
 ```
 
 
-Para abrir el repositorio escribe en la terminal de VSC "git clone" seguido del nombre del repositorio.
+##Para abrir el repositorio escribe en la terminal de VSC:
+"git clone" seguido del nombre del repositorio.
 
 Sigue después las instrucciones que te aparecerán en la pantalla:
 "or create a new repository on the command line
