@@ -1,5 +1,4 @@
-# Este es un proyecto para consumir una API de Harry Potter, ningún gatito murió en su creación...
-Some basic Git commands are:
+## Este es un proyecto para consumir una API de Harry Potter, ningún gatito murió en su creación...
 ```
 Para acceder a este repositorio (pongo ejemplo con visual studio code) debes tener intalados los siguientes programas: 
 
