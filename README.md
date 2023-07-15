@@ -12,10 +12,13 @@ https://vitejs.dev/guide/
 ```
 
 
-##Para abrir el repositorio escribe en la terminal de VSC:
+## Para abrir el repositorio escribe en la terminal de VSC:
+```
 "git clone" seguido del nombre del repositorio.
+```
 
-Sigue después las instrucciones que te aparecerán en la pantalla:
+## Sigue después las instrucciones que te aparecerán en la pantalla:
+```
 "or create a new repository on the command line
 echo "# APIdePOKEMON" >> README.md
 git init
@@ -24,6 +27,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
 git push -u origin main"
+```
+
 
 Como vite también utiliza npm escribimos en el terminal: "npm create vite@latest"
 
