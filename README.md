@@ -39,9 +39,9 @@ Nos aparecera una lista de frameworks, elegimos react.
 
 ```
 Una vez creada intruduciremos los comandos:
-- " cd seguido del nombre que hayamos elegido
+- "cd seguido del nombre que hayamos elegido"
 - "npm install"
-- " npm run dev"
+- "npm run dev"
 ```
 
 ## Y nos va a entregar un puerto de acceso donde poder visualizarlo.
