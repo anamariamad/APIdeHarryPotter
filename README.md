@@ -20,12 +20,12 @@ https://vitejs.dev/guide/
 ## Sigue después las instrucciones que te aparecerán en la pantalla:
 ```
 "or create a new repository on the command line
-echo "# APIdePOKEMON" >> README.md
+echo "# APIdeHarryPotter" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/anamariamad/APIdePOKEMON.git
+git remote add origin https://github.com/anamariamad/APIdeHarryPotter.git
 git push -u origin main"
 ```
 
